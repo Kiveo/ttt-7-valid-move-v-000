@@ -2,8 +2,6 @@
 def valid_move?(board, index)
   if position_taken?
     true
-  else
-    true
   end
 end
 
